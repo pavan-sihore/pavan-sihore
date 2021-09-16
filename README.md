@@ -1,4 +1,4 @@
-### I am Pavan Sihor. 👋
+### I am Pavan Sihore. 👋
 
 <!--
 **pavan-sihore/pavan-sihore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
