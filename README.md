@@ -1,7 +1,7 @@
 ### I am Pavan Sihore. 👋
 A dynamic professional with proven ability and experience in developing a web application using full-stack. Technical Lead/Web Developer with more than 8 years of hands-on experience in Web development. Passionate about coding and fast learning.
 
-I’m currently working on MAP IT Center Bhopal
+I’m currently working on MPSEDC Bhopal
 
 <!--
 **pavan-sihore/pavan-sihore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
