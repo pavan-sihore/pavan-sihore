@@ -2,7 +2,7 @@
 
 ## I am Pavan Sihore. 👋
 
-## Senior Web Developer @ MPSEDC | Full-Stack Developer | Web Developer
+## Senior Web Developer @ MPSEDC | Full-Stack Developer
 
 </div>
 
